@@ -1,5 +1,5 @@
-## Basic standard Nodejs structure
-- Version: v1.0
+## Basic standard Nodejs structure for Yeoman
+- Version: **v2.0**
 
 ##Features
 Package list
@@ -14,6 +14,11 @@ Package list
 + Statis-favicon
 + Method-override
 
+## Installation guide
+
+- Step 1: Run command `npm install -g generator-express-simple-update`
+- Step 2: Run command `yo express-simple-update`
+
 ## Description
-- With this type you can create simple Nodejs structure project in very fast time.
+- With this package you can create simple Nodejs structure project in very fast time.
 - Hope this help.

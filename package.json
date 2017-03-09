@@ -1,7 +1,7 @@
 {
-  "name": "generator-sd-express",
+  "name": "generator-express-simple-update",
   "description":"Simple express-nodejs structure to help you start quickly into basic nodejs",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "repository": {
     "type": "git",
     "url": "https://www.github.com/transybao93/basic-nodejs.git"
