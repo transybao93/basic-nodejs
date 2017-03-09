@@ -2,7 +2,7 @@
 - Version: v1.0
 
 ##Features
-- Package list
+Package list
 > Express
 > Body-parser
 > Compression
