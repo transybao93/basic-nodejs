@@ -16,7 +16,7 @@ Package list
 
 ## Installation guide
 
-- Step 1: Run command `npm install -g generator-express-basic`
+- Step 1: Run command `npm install -g generator-sd-express`
 - Step 2: Run command `yo express-simple-update`
 
 ## Description
