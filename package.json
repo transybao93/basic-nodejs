@@ -1,6 +1,11 @@
 {
-  "name": "test1",
-  "version": "0.0.0",
+  "name": "generator-express-simple-update",
+  "description":"Simple express-nodejs structure to help you start quickly into basic nodejs",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/transybao93/basic-nodejs.git"
+  },
   "dependencies": {
     "body-parser": "~1.0.0",
     "compression": "1.0.1",
@@ -31,9 +36,13 @@
   },
   "keywords": [
     "yeoman",
-    "testing"
+    "express",
+    "nodejs",
+    "generator-express-simple-update",
+    "generator-express-simple",
+    "express simple",
+    "nodejs simple"
   ],
   "author": "Tran Sy Bao",
   "license": "ISC",
-  "description": ""
 }
