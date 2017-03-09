@@ -1,5 +1,5 @@
 {
-  "name": "generator-express-simple-update",
+  "name": "generator-sd-express",
   "description":"Simple express-nodejs structure to help you start quickly into basic nodejs",
   "version": "1.0.0",
   "repository": {
@@ -44,5 +44,5 @@
     "nodejs simple"
   ],
   "author": "Tran Sy Bao",
-  "license": "ISC",
+  "license": "ISC"
 }
