@@ -1,5 +1,8 @@
 ## Basic standard Nodejs structure for Yeoman
-- Version: **v2.0.1**
+- Version: **v2.0.2**
+
+## Description
+- With this package you can create simple Nodejs structure project in very fast time.
 
 ##Features
 Package list
@@ -16,9 +19,12 @@ Package list
 
 ## Installation guide
 
+Install **Yeoman** with **npm**
+> npm install -g yo
+
+New to **Yeoman**
+Read this [article](http://yeoman.io/learning/)
+
+If you have installed `yeoman`, please follow:
 - Step 1: Run command `npm install -g generator-sd-express`
 - Step 2: Run command `yo sd-express`
-
-## Description
-- With this package you can create simple Nodejs structure project in very fast time.
-- Hope this help.
